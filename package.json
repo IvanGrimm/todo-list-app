@@ -1,0 +1,25 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "A simple To-Do List App built with Node.js and Express.js.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ivan Grimm <work@ivangrimm.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanGrimm/simple-web-server/issues"
+  },
+  "homepage": "https://github.com/IvanGrimm/simple-web-server#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanGrimm/todo-list-app.git"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
